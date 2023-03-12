@@ -1,12 +1,12 @@
 ![Header](./github-header-image.png)
-<h3 align="center">A skilled developer from Morocco with a passion for front and back end development and over 7 years of experience in various roles. Possesses a Diploma in Computer Systems and Networks and has expertise in system and network administration. Has excellent communication skills and works well as a part of a team, approaching problem-solving proactively. Is highly motivated to learn and improve, punctual, and organized. Proficient in several programming languages such as JavaScript, Python, and Ruby. Has a strong commitment to providing high-quality code and creating innovative solutions that fulfill client requirements. Possesses a curious nature and is always eager to tackle new challenges.</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+<h3 align="center">A skilled developer from Morocco with a passion for front and back end development and over 7 years of experience in various roles.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saberberdey3&label=Profile%20views&color=0e75b6&style=flat" alt="saberberdey3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saberberdey3" alt="saberberdey3" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sberdey" target="blank"><img src="https://img.shields.io/twitter/follow/sberdey?logo=twitter&style=for-the-badge" alt="sberdey" /></a> </p>
-
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 - 🔭 I’m currently working as **Computer Trainer**
 
 - 🌱 I’m currently learning **Software Engineer at Alx_africa**
